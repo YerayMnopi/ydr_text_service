@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../front/ydr-blog-web-2"
+		},
+		{
+			"path": "../../../../../django/ydr_images_service"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
